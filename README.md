@@ -2,10 +2,10 @@
 taming the neural waves
 
 
-- 🔭 I’m currently working on Deep Learning,GANs
+- 🔭 I’m currently working on Wireless Communications
 - 🌱 I’m currently learning Everything
-- 👯 I’m looking to collaborate on Open-Source ML projects
-- 💬 Ask me about Neural Networks
+- 👯 I’m looking to collaborate on 6G Communications projects
+- 💬 Ask me about Communication Networks
 - 📫 How to reach me chakrabortysayam2@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Bug Bounty Hunter
